@@ -1,0 +1,372 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Bark Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: dog_master:bark_geo
+    m_Weight: 1
+  - m_Path: dog_master:dog_mesh
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:pelvis_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:pelvis_grp/dog_master:pelvis_control
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:pelvis_grp/dog_master:pelvis_control/dog_master:tail_base_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:pelvis_grp/dog_master:pelvis_control/dog_master:tail_base_grp/dog_master:tail_base_control
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:pelvis_grp/dog_master:pelvis_control/dog_master:tail_base_grp/dog_master:tail_base_control/dog_master:tail_1_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:pelvis_grp/dog_master:pelvis_control/dog_master:tail_base_grp/dog_master:tail_base_control/dog_master:tail_1_grp/dog_master:tail_1_control
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:pelvis_grp/dog_master:pelvis_control/dog_master:tail_base_grp/dog_master:tail_base_control/dog_master:tail_1_grp/dog_master:tail_1_control/dog_master:tail_2_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:pelvis_grp/dog_master:pelvis_control/dog_master:tail_base_grp/dog_master:tail_base_control/dog_master:tail_1_grp/dog_master:tail_1_control/dog_master:tail_2_grp/dog_master:tail_2_control
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:pelvis_grp/dog_master:pelvis_control/dog_master:tail_base_grp/dog_master:tail_base_control/dog_master:tail_1_grp/dog_master:tail_1_control/dog_master:tail_2_grp/dog_master:tail_2_control/dog_master:tail_3_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:pelvis_grp/dog_master:pelvis_control/dog_master:tail_base_grp/dog_master:tail_base_control/dog_master:tail_1_grp/dog_master:tail_1_control/dog_master:tail_2_grp/dog_master:tail_2_control/dog_master:tail_3_grp/dog_master:tail_3_control
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:pelvis_grp/dog_master:pelvis_control/dog_master:tail_base_grp/dog_master:tail_base_control/dog_master:tail_1_grp/dog_master:tail_1_control/dog_master:tail_2_grp/dog_master:tail_2_control/dog_master:tail_3_grp/dog_master:tail_3_control/dog_master:tail_4_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:pelvis_grp/dog_master:pelvis_control/dog_master:tail_base_grp/dog_master:tail_base_control/dog_master:tail_1_grp/dog_master:tail_1_control/dog_master:tail_2_grp/dog_master:tail_2_control/dog_master:tail_3_grp/dog_master:tail_3_control/dog_master:tail_4_grp/dog_master:tail_4_control
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:pelvis_grp/dog_master:pelvis_control/dog_master:tail_base_grp/dog_master:tail_base_control/dog_master:tail_1_grp/dog_master:tail_1_control/dog_master:tail_2_grp/dog_master:tail_2_control/dog_master:tail_3_grp/dog_master:tail_3_control/dog_master:tail_4_grp/dog_master:tail_4_control/dog_master:tail_tip_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:pelvis_grp/dog_master:pelvis_control/dog_master:tail_base_grp/dog_master:tail_base_control/dog_master:tail_1_grp/dog_master:tail_1_control/dog_master:tail_2_grp/dog_master:tail_2_control/dog_master:tail_3_grp/dog_master:tail_3_control/dog_master:tail_4_grp/dog_master:tail_4_control/dog_master:tail_tip_grp/dog_master:tail_tip_control
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:L_clavicle_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:L_clavicle_grp/dog_master:L_clavicle_control
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:jaw_grp
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:jaw_grp/dog_master:jaw_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:jaw_grp/dog_master:jaw_control/dog_master:tongue_base_grp
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:jaw_grp/dog_master:jaw_control/dog_master:tongue_base_grp/dog_master:tongue_base_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:jaw_grp/dog_master:jaw_control/dog_master:tongue_base_grp/dog_master:tongue_base_control/dog_master:tongue_1_grp
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:jaw_grp/dog_master:jaw_control/dog_master:tongue_base_grp/dog_master:tongue_base_control/dog_master:tongue_1_grp/dog_master:tongue_1_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:jaw_grp/dog_master:jaw_control/dog_master:tongue_base_grp/dog_master:tongue_base_control/dog_master:tongue_1_grp/dog_master:tongue_1_control/dog_master:tongue_2_grp
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:jaw_grp/dog_master:jaw_control/dog_master:tongue_base_grp/dog_master:tongue_base_control/dog_master:tongue_1_grp/dog_master:tongue_1_control/dog_master:tongue_2_grp/dog_master:tongue_2_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:jaw_grp/dog_master:jaw_control/dog_master:tongue_base_grp/dog_master:tongue_base_control/dog_master:tongue_1_grp/dog_master:tongue_1_control/dog_master:tongue_2_grp/dog_master:tongue_2_control/dog_master:tongue_tip_grp
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:jaw_grp/dog_master:jaw_control/dog_master:tongue_base_grp/dog_master:tongue_base_control/dog_master:tongue_1_grp/dog_master:tongue_1_control/dog_master:tongue_2_grp/dog_master:tongue_2_control/dog_master:tongue_tip_grp/dog_master:tongue_tip_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:L_ear_base_grp
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:L_ear_base_grp/dog_master:L_ear_base_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:L_ear_base_grp/dog_master:L_ear_base_control/dog_master:L_ear_1_grp
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:L_ear_base_grp/dog_master:L_ear_base_control/dog_master:L_ear_1_grp/dog_master:L_ear_1_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:L_ear_base_grp/dog_master:L_ear_base_control/dog_master:L_ear_1_grp/dog_master:L_ear_1_control/dog_master:L_ear_2_grp
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:L_ear_base_grp/dog_master:L_ear_base_control/dog_master:L_ear_1_grp/dog_master:L_ear_1_control/dog_master:L_ear_2_grp/dog_master:L_ear_2_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:L_ear_base_grp/dog_master:L_ear_base_control/dog_master:L_ear_1_grp/dog_master:L_ear_1_control/dog_master:L_ear_2_grp/dog_master:L_ear_2_control/dog_master:L_ear_tip_grp
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:L_ear_base_grp/dog_master:L_ear_base_control/dog_master:L_ear_1_grp/dog_master:L_ear_1_control/dog_master:L_ear_2_grp/dog_master:L_ear_2_control/dog_master:L_ear_tip_grp/dog_master:L_ear_tip_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:L_mouth_corner_grp
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:L_mouth_corner_grp/dog_master:L_mouth_corner_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:L_muzzle_grp
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:L_muzzle_grp/dog_master:L_muzzle_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:nose_grp
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:nose_grp/dog_master:nose_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:R_ear_base_grp
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:R_ear_base_grp1
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:R_ear_base_grp1/dog_master:R_ear_base_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:R_ear_base_grp1/dog_master:R_ear_base_control/dog_master:R_ear_1_grp
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:R_ear_base_grp1/dog_master:R_ear_base_control/dog_master:R_ear_1_grp/dog_master:R_ear_1_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:R_ear_base_grp1/dog_master:R_ear_base_control/dog_master:R_ear_1_grp/dog_master:R_ear_1_control/dog_master:R_ear_2_grp
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:R_ear_base_grp1/dog_master:R_ear_base_control/dog_master:R_ear_1_grp/dog_master:R_ear_1_control/dog_master:R_ear_2_grp/dog_master:R_ear_2_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:R_ear_base_grp1/dog_master:R_ear_base_control/dog_master:R_ear_1_grp/dog_master:R_ear_1_control/dog_master:R_ear_2_grp/dog_master:R_ear_2_control/dog_master:R_ear_tip_grp
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:R_ear_base_grp1/dog_master:R_ear_base_control/dog_master:R_ear_1_grp/dog_master:R_ear_1_control/dog_master:R_ear_2_grp/dog_master:R_ear_2_control/dog_master:R_ear_tip_grp/dog_master:R_ear_tip_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:R_mouth_corner_grp
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:R_mouth_corner_grp/dog_master:R_mouth_corner_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:R_muzzle_grp
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:neck_1_grp/dog_master:neck_1_control/dog_master:neck_2_grp/dog_master:neck_2_control/dog_master:head_grp/dog_master:head_control/dog_master:R_muzzle_grp/dog_master:R_muzzle_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:R_clavicle_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:COG_grp/dog_master:COG_control/dog_master:spine_1_grp/dog_master:spine_1_control/dog_master:spine_2_grp/dog_master:spine_2_control/dog_master:chest_grp/dog_master:chest_control/dog_master:R_clavicle_grp/dog_master:R_clavicle_control
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:eye_control_grp
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:eye_control_grp/dog_master:eye_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:eye_control_grp/dog_master:eye_control/dog_master:L_eye_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:eye_control_grp/dog_master:eye_control/dog_master:R_eye_control
+    m_Weight: 1
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:L_back_foot_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:L_back_foot_grp/dog_master:L_back_foot_control
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:L_back_foot_grp/dog_master:L_back_foot_control/dog_master:L_back_foot_IK_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:L_back_foot_grp/dog_master:L_back_foot_control/dog_master:L_back_foot_IK_grp/dog_master:L_back_ankle_IK_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:L_back_foot_grp/dog_master:L_back_foot_control/dog_master:L_back_foot_IK_grp/dog_master:L_back_ankle_IK_grp/dog_master:L_back_ball_IK_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:L_back_foot_grp/dog_master:L_back_foot_control/dog_master:L_back_foot_IK_grp/dog_master:L_back_ankle_IK_grp/dog_master:L_back_ball_IK_grp/dog_master:L_back_ankle_IK
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:L_back_foot_grp/dog_master:L_back_foot_control/dog_master:L_back_foot_IK_grp/dog_master:L_back_ankle_IK_grp/dog_master:L_back_ball_IK_grp/dog_master:L_back_ball_IK
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:L_back_foot_grp/dog_master:L_back_foot_control/dog_master:L_back_foot_IK_grp/dog_master:L_back_ankle_IK_grp/dog_master:L_back_toes_IK_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:L_back_foot_grp/dog_master:L_back_foot_control/dog_master:L_back_foot_IK_grp/dog_master:L_back_ankle_IK_grp/dog_master:L_back_toes_IK_grp/dog_master:L_back_toes_IK
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:L_front_foot_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:L_front_foot_grp/dog_master:L_front_foot_control
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:L_front_foot_grp/dog_master:L_front_foot_control/dog_master:L_front_foot_IK_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:L_front_foot_grp/dog_master:L_front_foot_control/dog_master:L_front_foot_IK_grp/dog_master:L_front_ankle_IK_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:L_front_foot_grp/dog_master:L_front_foot_control/dog_master:L_front_foot_IK_grp/dog_master:L_front_ankle_IK_grp/dog_master:L_front_ball_IK_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:L_front_foot_grp/dog_master:L_front_foot_control/dog_master:L_front_foot_IK_grp/dog_master:L_front_ankle_IK_grp/dog_master:L_front_ball_IK_grp/dog_master:L_front_ankle_IK
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:L_front_foot_grp/dog_master:L_front_foot_control/dog_master:L_front_foot_IK_grp/dog_master:L_front_ankle_IK_grp/dog_master:L_front_ball_IK_grp/dog_master:L_front_ball_IK
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:L_front_foot_grp/dog_master:L_front_foot_control/dog_master:L_front_foot_IK_grp/dog_master:L_front_ankle_IK_grp/dog_master:L_front_toes_IK_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:L_front_foot_grp/dog_master:L_front_foot_control/dog_master:L_front_foot_IK_grp/dog_master:L_front_ankle_IK_grp/dog_master:L_front_toes_IK_grp/dog_master:L_front_toes_IK
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:R_back_foot_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:R_back_foot_grp/dog_master:R_back_foot_control
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:R_back_foot_grp/dog_master:R_back_foot_control/dog_master:R_back_foot_IK_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:R_back_foot_grp/dog_master:R_back_foot_control/dog_master:R_back_foot_IK_grp/dog_master:R_back_ankle_IK_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:R_back_foot_grp/dog_master:R_back_foot_control/dog_master:R_back_foot_IK_grp/dog_master:R_back_ankle_IK_grp/dog_master:R_back_ball_IK_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:R_back_foot_grp/dog_master:R_back_foot_control/dog_master:R_back_foot_IK_grp/dog_master:R_back_ankle_IK_grp/dog_master:R_back_ball_IK_grp/dog_master:R_back_ankle_IK
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:R_back_foot_grp/dog_master:R_back_foot_control/dog_master:R_back_foot_IK_grp/dog_master:R_back_ankle_IK_grp/dog_master:R_back_ball_IK_grp/dog_master:R_back_ball_IK
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:R_back_foot_grp/dog_master:R_back_foot_control/dog_master:R_back_foot_IK_grp/dog_master:R_back_ankle_IK_grp/dog_master:R_back_toes_IK_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:R_back_foot_grp/dog_master:R_back_foot_control/dog_master:R_back_foot_IK_grp/dog_master:R_back_ankle_IK_grp/dog_master:R_back_toes_IK_grp/dog_master:R_back_toes_IK
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:R_front_foot_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:R_front_foot_grp/dog_master:R_front_foot_control
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:R_front_foot_grp/dog_master:R_front_foot_control/dog_master:R_front_foot_IK_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:R_front_foot_grp/dog_master:R_front_foot_control/dog_master:R_front_foot_IK_grp/dog_master:R_front_ankle_IK_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:R_front_foot_grp/dog_master:R_front_foot_control/dog_master:R_front_foot_IK_grp/dog_master:R_front_ankle_IK_grp/dog_master:R_front_ball_IK_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:R_front_foot_grp/dog_master:R_front_foot_control/dog_master:R_front_foot_IK_grp/dog_master:R_front_ankle_IK_grp/dog_master:R_front_ball_IK_grp/dog_master:R_front_ankle_IK
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:R_front_foot_grp/dog_master:R_front_foot_control/dog_master:R_front_foot_IK_grp/dog_master:R_front_ankle_IK_grp/dog_master:R_front_ball_IK_grp/dog_master:R_front_ball_IK
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:R_front_foot_grp/dog_master:R_front_foot_control/dog_master:R_front_foot_IK_grp/dog_master:R_front_ankle_IK_grp/dog_master:R_front_toes_IK_grp
+    m_Weight: 0
+  - m_Path: dog_master:Main_grp/dog_master:Main_control/dog_master:R_front_foot_grp/dog_master:R_front_foot_control/dog_master:R_front_foot_IK_grp/dog_master:R_front_ankle_IK_grp/dog_master:R_front_toes_IK_grp/dog_master:R_front_toes_IK
+    m_Weight: 0
+  - m_Path: dog_master:root
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:pelvis_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:pelvis_joint/dog_master:L_back_hip_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:pelvis_joint/dog_master:L_back_hip_joint/dog_master:L_back_knee_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:pelvis_joint/dog_master:L_back_hip_joint/dog_master:L_back_knee_joint/dog_master:L_back_lower_leg_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:pelvis_joint/dog_master:L_back_hip_joint/dog_master:L_back_knee_joint/dog_master:L_back_lower_leg_joint/dog_master:L_back_ankle_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:pelvis_joint/dog_master:L_back_hip_joint/dog_master:L_back_knee_joint/dog_master:L_back_lower_leg_joint/dog_master:L_back_ankle_joint/dog_master:L_back_ball_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:pelvis_joint/dog_master:L_back_hip_joint/dog_master:L_back_knee_joint/dog_master:L_back_lower_leg_joint/dog_master:L_back_ankle_joint/dog_master:L_back_ball_joint/dog_master:L_back_toes_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:pelvis_joint/dog_master:R_back_hip_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:pelvis_joint/dog_master:R_back_hip_joint/dog_master:R_back_knee_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:pelvis_joint/dog_master:R_back_hip_joint/dog_master:R_back_knee_joint/dog_master:R_back_lower_leg_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:pelvis_joint/dog_master:R_back_hip_joint/dog_master:R_back_knee_joint/dog_master:R_back_lower_leg_joint/dog_master:R_back_ankle_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:pelvis_joint/dog_master:R_back_hip_joint/dog_master:R_back_knee_joint/dog_master:R_back_lower_leg_joint/dog_master:R_back_ankle_joint/dog_master:R_back_ball_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:pelvis_joint/dog_master:R_back_hip_joint/dog_master:R_back_knee_joint/dog_master:R_back_lower_leg_joint/dog_master:R_back_ankle_joint/dog_master:R_back_ball_joint/dog_master:R_back_toes_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:pelvis_joint/dog_master:tail_base_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:pelvis_joint/dog_master:tail_base_joint/dog_master:tail_1_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:pelvis_joint/dog_master:tail_base_joint/dog_master:tail_1_joint/dog_master:tail_2_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:pelvis_joint/dog_master:tail_base_joint/dog_master:tail_1_joint/dog_master:tail_2_joint/dog_master:tail_3_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:pelvis_joint/dog_master:tail_base_joint/dog_master:tail_1_joint/dog_master:tail_2_joint/dog_master:tail_3_joint/dog_master:tail_4_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:pelvis_joint/dog_master:tail_base_joint/dog_master:tail_1_joint/dog_master:tail_2_joint/dog_master:tail_3_joint/dog_master:tail_4_joint/dog_master:tail_tip_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:breathe_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:L_clavicle_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:L_clavicle_joint/dog_master:L_front_hip_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:L_clavicle_joint/dog_master:L_front_hip_joint/dog_master:L_front_knee_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:L_clavicle_joint/dog_master:L_front_hip_joint/dog_master:L_front_knee_joint/dog_master:L_front_lower_leg_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:L_clavicle_joint/dog_master:L_front_hip_joint/dog_master:L_front_knee_joint/dog_master:L_front_lower_leg_joint/dog_master:L_front_ankle_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:L_clavicle_joint/dog_master:L_front_hip_joint/dog_master:L_front_knee_joint/dog_master:L_front_lower_leg_joint/dog_master:L_front_ankle_joint/dog_master:L_front_ball_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:L_clavicle_joint/dog_master:L_front_hip_joint/dog_master:L_front_knee_joint/dog_master:L_front_lower_leg_joint/dog_master:L_front_ankle_joint/dog_master:L_front_ball_joint/dog_master:L_front_toes_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:bark_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:jaw_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:jaw_joint/dog_master:tongue_base_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:jaw_joint/dog_master:tongue_base_joint/dog_master:tongue_1_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:jaw_joint/dog_master:tongue_base_joint/dog_master:tongue_1_joint/dog_master:tongue_2_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:jaw_joint/dog_master:tongue_base_joint/dog_master:tongue_1_joint/dog_master:tongue_2_joint/dog_master:tongue_tip_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:L_ear_base_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:L_ear_base_joint/dog_master:L_ear_1_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:L_ear_base_joint/dog_master:L_ear_1_joint/dog_master:L_ear_2_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:L_ear_base_joint/dog_master:L_ear_1_joint/dog_master:L_ear_2_joint/dog_master:L_ear_tip_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:L_eyeball_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:L_lower_lid_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:L_mouth_corner_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:L_muzzle_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:L_upper_lid_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:nose_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:R_ear_base_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:R_ear_base_joint/dog_master:R_ear_1_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:R_ear_base_joint/dog_master:R_ear_1_joint/dog_master:R_ear_2_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:R_ear_base_joint/dog_master:R_ear_1_joint/dog_master:R_ear_2_joint/dog_master:R_ear_tip_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:R_eyeball_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:R_lower_lid_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:R_mouth_corner_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:R_muzzle_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:neck_1_joint/dog_master:neck_2_joint/dog_master:head_joint/dog_master:R_upper_lid_joint
+    m_Weight: 1
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:R_clavicle_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:R_clavicle_joint/dog_master:R_front_hip_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:R_clavicle_joint/dog_master:R_front_hip_joint/dog_master:R_front_knee_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:R_clavicle_joint/dog_master:R_front_hip_joint/dog_master:R_front_knee_joint/dog_master:R_front_lower_leg_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:R_clavicle_joint/dog_master:R_front_hip_joint/dog_master:R_front_knee_joint/dog_master:R_front_lower_leg_joint/dog_master:R_front_ankle_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:R_clavicle_joint/dog_master:R_front_hip_joint/dog_master:R_front_knee_joint/dog_master:R_front_lower_leg_joint/dog_master:R_front_ankle_joint/dog_master:R_front_ball_joint
+    m_Weight: 0
+  - m_Path: dog_master:root/dog_master:COG_joint/dog_master:spine_1_joint/dog_master:spine_2_joint/dog_master:chest_joint/dog_master:R_clavicle_joint/dog_master:R_front_hip_joint/dog_master:R_front_knee_joint/dog_master:R_front_lower_leg_joint/dog_master:R_front_ankle_joint/dog_master:R_front_ball_joint/dog_master:R_front_toes_joint
+    m_Weight: 0
